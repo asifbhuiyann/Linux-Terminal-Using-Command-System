@@ -1,2 +1,2 @@
 # Linux-Terminal-Using-Command-System
- It's like a linux terminal system where some specific command willl be executed. 
+ It's like a Linux terminal system where some specific command will be executed. Some basic Linux commands are implemented here like creating file, reading a file, writing a file, opening a file in a text editor, showing active processes, showing running processes, showing memory data, making the system sleep for a certain amount of time, showing a graphical representation of memory uses and some other features. Check it out. I believe you'll like it. 
